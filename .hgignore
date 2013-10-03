@@ -1,0 +1,15 @@
+# use glob syntax.
+syntax: glob
+*.o.d
+*.o
+*.setup
+*gdbserver
+*.classpath
+*.cproject
+*.dex
+*.apk
+*.class
+*.project
+*.jar
+*.properties
+*.txt
